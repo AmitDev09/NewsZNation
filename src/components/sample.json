@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 28,
+    "articles": [
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Joe Morgan",
+            "title": "Chiefs were in incorrect formation on final Super Bowl touchdown: ‘They lined up wrong’ - Fox News",
+            "description": "The Kansas City Chiefs lined up in the wrong formation on their final touchdown in the fourth quarter against the Philadelphia Eagles in Super Bowl LVII on Sunday.",
+            "url": "https://www.foxnews.com/sports/chiefs-were-incorrect-formation-final-super-bowl-touchdown-they-lined-up-wrong",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/02/GettyImages-1247096812-copy.jpg",
+            "publishedAt": "2023-02-16T21:54:00Z",
+            "content": "The Kansas City Chiefs came from behind in Super Bowl LVII on Sunday, winning their second championship in two years and putting quarterback Patrick Mahomes\r\n in rarified air. \r\nAfter entering halfti… [+1609 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Chris Isidore",
+            "title": "Tesla recalling nearly 363,000 vehicles equipped with 'Full Self-Driving' - CNN",
+            "description": "Tesla is recalling all 363,000 US vehicles with its so-called \"Full Self Driving\" driver assist software due to safety risks, another blow to the feature that is central to the automaker's business model.",
+            "url": "https://www.cnn.com/2023/02/16/business/tesla-fsd-recall/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230109114804-tesla-car-steering-wheel-autopilot-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-02-16T21:35:00Z",
+            "content": "Tesla is recalling all 363,000 US vehicles with its so-called Full Self Driving driver assist software due to safety risks, another blow to the feature that is central to the automakers business mode… [+5304 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Clare Foran, Jessica Dean",
+            "title": "Fetterman checked himself into hospital 'to receive treatment for clinical depression,' office says - CNN",
+            "description": "Democratic Sen. John Fetterman of Pennsylvania checked himself into Walter Reed National Military Medical Center \"to receive treatment for clinical depression,\" his chief of staff announced on Thursday.",
+            "url": "https://www.cnn.com/2023/02/16/politics/john-fetterman-depression-treatment/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230216143431-01-john-fetterman-0213.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-02-16T21:32:00Z",
+            "content": "Editors Note: If you or someone you know is struggling with mental health, please call the Suicide &amp; Crisis Lifeline at 988 to connect with a trained counselor or visit 988lifeline.org.\r\nDemocrat… [+2039 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "Rumored iPhone 15 Pro Design With Thinner Bezels, Thicker Camera Bump and USB-C Port Shown Off in Renders - MacRumors",
+            "description": "Multiple rumors have indicated that there are a handful of design changes that are coming to the iPhone 15 Pro and iPhone 15 Pro Max, and to...",
+            "url": "https://www.macrumors.com/2023/02/16/iphone-15-pro-renders/",
+            "urlToImage": "https://images.macrumors.com/t/YlxfFCoDQjfwUhL747SFz4c-c78=/2000x/article-new/2023/02/iphone-15-pro-9to5.jpg",
+            "publishedAt": "2023-02-16T20:55:50Z",
+            "content": "Multiple rumors have indicated that there are a handful of design changes that are coming to the iPhone 15 Pro and ‌iPhone 15 Pro‌ Max, and to demonstrate what we might see, Ian Zelbo has created a s… [+1534 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Laura Reiley",
+            "title": "Nearly half of preschool-age kids aren't eating their veggies - The Washington Post",
+            "description": "Young children aren’t eating daily vegetables and fruits, but they are drinking sugar-sweetened beverages, report shows.",
+            "url": "https://www.washingtonpost.com/business/2023/02/16/child-nutrition-vegetables-sugary-drinks/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3OGTLXGVXZFFZATICEBTYYTEW4.jpg&w=1440",
+            "publishedAt": "2023-02-16T20:32:26Z",
+            "content": "Comment on this story\r\nNew data shows many young children are not consuming fruits and vegetables daily and are regularly consuming sugary beverages.\r\nIn 2021, a third of children age 1 to 5 did not … [+6209 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "Kyle Porter",
+            "title": "2023 Genesis Invitational leaderboard: Live updates, Tiger Woods score, golf scores in Round 1 on Thursday - CBS Sports",
+            "description": "Live scores, updates and highlights from Thursday's opening-round action in the 2023 Genesis Invitational",
+            "url": "https://www.cbssports.com/golf/news/2023-genesis-invitational-leaderboard-live-updates-tiger-woods-score-golf-scores-in-round-1-on-thursday/live/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/02/16/8e2c088a-6c8a-4518-a152-7bca358b4dd5/thumbnail/1200x675/7166f91124225b8745acb579a266733b/tiger-genesis.jpg",
+            "publishedAt": "2023-02-16T20:30:00Z",
+            "content": "This week's Genesis Invitational is the second consecutive designated event on the PGA Tour's schedule, but the first that will include Tiger Woods. The odds of Woods winning are slim, but it will st… [+1132 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AL.com"
+            },
+            "author": "Lee Roop | lroop@al.com",
+            "title": "New James Webb Space Telescope images stun scientists - AL.com",
+            "description": "Scientists are surprised and thrilled as James Webb Space Telescope lets them see the 'overlapping shells and bubbles of energy' released by young stars being formed",
+            "url": "https://www.al.com/news/2023/02/new-james-webb-space-telescope-images-stun-scientists.html",
+            "urlToImage": "https://www.al.com/resizer/SuWbczas_MEUYV-4QDLBCHdij-4=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/Q3HCS5HEQZCIDP7PY2S6IJ4OYQ.png",
+            "publishedAt": "2023-02-16T20:24:00Z",
+            "content": "Unprecedented.\r\nThats the word scientists are using to describe new, clear James Webb Space Telescope images of star formation that pierce the clouds of gas and dust blocking earlier telescopes from … [+2518 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Callofduty.com"
+            },
+            "author": null,
+            "title": "Call of Duty®: Modern Warfare® II & Warzone™ Season 02 Patch Notes - Call of Duty",
+            "description": null,
+            "url": "https://www.callofduty.com/patchnotes/2023/02/Call-of-Duty-Modern-Warfare-II-Warzone-2-Season-02-Patch-Notes",
+            "urlToImage": "https://imgs.callofduty.com/content/dam/atvi/callofduty/cod-touchui/patchnotes/hero/wz2/2023/mwii/season_02/patch_notes_banner.png",
+            "publishedAt": "2023-02-16T20:03:45Z",
+            "content": "Good luck, have fun! Be good to each other! \r\n Infinity Ward\r\n Raven Software\r\n Treyarch\r\n Beenox\r\n High Moon Studios\r\n Toys for Bob\r\n Demonware\r\n Sledgehammer Games\r\n Team Ricochet\r\nFor regular upda… [+754 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Stefanie Waldek",
+            "title": "Black holes may be the source of mysterious dark energy - Space.com",
+            "description": "The origin of dark energy has been perplexing scientists for decades.",
+            "url": "https://www.space.com/black-holes-create-dark-energy-first-evidence",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/iWbt6ewM92P2v22WEmcDoi-1200-80.jpg",
+            "publishedAt": "2023-02-16T20:00:11Z",
+            "content": "When astronomers discovered that the universe is expanding at an accelerating rate, they theorized that some force must be pushing things farther apart and overcoming gravity, which should be slowing… [+2294 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Scott Mantz",
+            "title": "How 'Star Trek: Picard' Created the High-Tech Bridge of Its Newest Starship - Variety",
+            "description": "In just about every way, the third and final season of “Star Trek: Picard” is both about looking back and moving forward. In addition to reuniting the crew of the U.S.S. Enterprise from “The Next G…",
+            "url": "https://variety.com/2023/tv/news/star-trek-picard-starship-bridge-titan-1235523911/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2023/02/Star-Trek-Picard-Titan-1.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2023-02-16T20:00:00Z",
+            "content": "In just about every way, the third and final season of “Star Trek: Picard” is both about looking back and moving forward. In addition to reuniting the crew of the U.S.S. Enterprise from “The Next Gen… [+3263 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Tracy Wright",
+            "title": "Bruce Willis diagnosed with frontotemporal dementia following aphasia battle, family says - Fox News",
+            "description": "Bruce Willis' family shared update on his health as condition with aphasia progressed into frontotemporal dementia (FTD). The \"Die Hard\" star is married to Emma Heming.",
+            "url": "https://www.foxnews.com/entertainment/bruce-willis-diagnosed-frontotemporal-dementia-following-aphasia-battle-family-says",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/02/bruce-willis-dementia.jpg",
+            "publishedAt": "2023-02-16T19:45:00Z",
+            "content": "Bruce Willis' condition \"has progressed\" and the \"Die Hard\" actor has been diagnosed with frontotemporal dementia, according to his family. The news comes after they previously revealed his aphasia d… [+3334 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": null,
+            "title": "Tesla fires over 30 workers after union effort: group - The Hill",
+            "description": null,
+            "url": "https://thehill.com/changing-america/respect/equality/3861775-tesla-fires-over-30-workers-after-union-effort-group/",
+            "urlToImage": null,
+            "publishedAt": "2023-02-16T19:36:29Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KLAS - 8 News Now"
+            },
+            "author": "David Charns",
+            "title": "Grand jury indicts Alvin Kamara, 3 others in Las Vegas nightclub beating - KLAS - 8 News Now",
+            "description": "A Clark County grand jury has indicted Alvin Kamara and three others for an alleged beating at a Las Vegas nightclub last year.",
+            "url": "https://www.8newsnow.com/investigators/grand-jury-indicts-alvin-kamara-3-others-in-las-vegas-nightclub-beating/",
+            "urlToImage": "https://www.8newsnow.com/wp-content/uploads/sites/59/2023/02/AP23030649365081.jpg?w=1280",
+            "publishedAt": "2023-02-16T19:18:44Z",
+            "content": "Feb. 2022 incident captured on video, lawyer saysLAS VEGAS (KLAS) — A Clark County grand jury has indicted Alvin Kamara and three others for an alleged beating at a Las Vegas nightclub last year.\r\nKa… [+2163 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SFGate"
+            },
+            "author": "Sam Moore",
+            "title": "Stanford academics among those who signed FTX founder's bail bond - SFGATE",
+            "description": "Two notable Stanford academics are on the hook for a combined $700,000 if Bankman-Fried flees before his trial.",
+            "url": "https://www.sfgate.com/local/article/ftx-bankman-fried-stanford-bail-bond-17788669.php",
+            "urlToImage": "https://s.hdnux.com/photos/01/31/43/65/23477604/3/rawImage.jpg",
+            "publishedAt": "2023-02-16T19:15:39Z",
+            "content": "Two notable Stanford academics are included in those who signed disgraced FTX founder Sam Bankman-Fried's $250 million bail package, the Associated Press reported. Unsealed court documents disclosed … [+1572 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marvel Entertainment"
+            },
+            "author": "Rachel Paige",
+            "title": "'Ant-Man and The Wasp: Quantumania': Paul Rudd, Evangeline Lilly, and Peyton Reed on the Franchise's MCU Legacy - Marvel",
+            "description": "“To get to do it over the course of almost a decade, I feel a real kind of kinship with the part, with the franchise, with the company. I feel protective of Scott Lang and Ant-Man because of it.”",
+            "url": "https://www.marvel.com/articles/movies/ant-man-and-the-wasp-quantumania-paul-rudd-evangeline-lilly-peyton-reed-legacy",
+            "urlToImage": "https://cdn.marvel.com/content/1x/ant-man_4.png",
+            "publishedAt": "2023-02-16T18:44:47Z",
+            "content": "As Phase 5 kicks off with Marvel Studios Ant-Man and The Wasp: Quantumania , its two stars still cant believe theyve been shrinking, growing, and flying around the MCU for almost the last decade. Pau… [+1338 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WDIV ClickOnDetroit"
+            },
+            "author": "Derick Hutchinson",
+            "title": "Michigan State shootings: Update on injured students, 2 guns, note, contact with shooter, more - WDIV ClickOnDetroit",
+            "description": "Officials provided a comprehensive update on the Michigan State mass shooting investigation on Thursday morning, discussing the condition of injured students, the weapons and note found on the shooter, what happened at the scene where he killed himself, the s…",
+            "url": "https://www.clickondetroit.com/news/local/2023/02/16/michigan-state-shootings-update-on-injured-students-2-guns-note-contact-with-shooter-more/",
+            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/T7XRWVLNYVDJPBMFQOVN65XKT4.jpg?_a=ATO2Bfe0",
+            "publishedAt": "2023-02-16T18:13:11Z",
+            "content": "EAST LANSING, Mich. Officials provided a comprehensive update on the Michigan State mass shooting investigation on Thursday morning, discussing the condition of injured students, the weapons and note… [+14102 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Lily Kuo",
+            "title": "Before they floated abroad, China's spy balloons were already used at home - The Washington Post",
+            "description": "China's use of balloons for “social stability maintenance” shows how Beijing is honing these monitoring tools at home for use abroad and in the case of war.",
+            "url": "https://www.washingtonpost.com/world/2023/02/16/china-spy-balloon-domestic-use/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7NDARMMDTVEM7XYNIPB6HILBFM.JPG&w=1440",
+            "publishedAt": "2023-02-16T17:39:00Z",
+            "content": "Comment on this story\r\nIn the summer of 2017, a group of more than 30 police officers from Beijings Public Security Bureau visited a government-backed balloon research center. They viewed the balloon… [+7675 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "John Bacon, USA TODAY",
+            "title": "140000 Russians killed in Ukraine war; Kyiv desperate for Western tanks, technology. Live updates. - USA TODAY",
+            "description": "High-tech Western tanks pledged to Ukraine's military will provide better electronics and an overall military advantage But will they be enough?",
+            "url": "https://www.usatoday.com/story/news/world/2023/02/16/ukraine-russia-war-live-updates/11270950002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2023/02/13/USAT/69c19e9f-4db0-433f-afd3-e0231fbf2011-AP_Russia_Ukraine_War_28.jpg?auto=webp&crop=3199,1800,x0,y213&format=pjpg&width=1200",
+            "publishedAt": "2023-02-16T16:52:30Z",
+            "content": "High-tech Western tanks pledged to Ukraine's military will provide better electronics, maneuverability, protection and an overall military advantage over the T-72 and T-80 tanks that dominate the Rus… [+5330 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "POLITICO.eu"
+            },
+            "author": "Leonie Kijewski, Jacopo Barigazzi",
+            "title": "EU Commission scratches Russia nuclear sanctions plans - POLITICO Europe",
+            "description": "Ukrainian President Volodymyr Zelenskyy had urged the EU to sanction Rosatom, the Russian state nuclear energy company.",
+            "url": "https://www.politico.eu/article/rosatom-russia-ukraine-volodymyr-zelenskyy-vladimir-putin-eu-executive-scratches-russia-nuclear-sanctions-plans/",
+            "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/02/16/GettyImages-543401190-scaled.jpg",
+            "publishedAt": "2023-02-16T15:38:00Z",
+            "content": "The European Commission has abandoned plans to sanction Russia's nuclear sector or its representatives in its next sanctions package, three diplomats told POLITICO on Thursday.\r\nThe EU executive init… [+1824 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "Zaria Gorvett",
+            "title": "The weird reasons there still isn't a male contraceptive pill - BBC",
+            "description": "Many side-effects deemed unacceptable in the male pill have been plaguing women for decades. Is there a double standard?",
+            "url": "https://www.bbc.com/future/article/20230216-the-weird-reasons-male-birth-control-pills-are-scorned",
+            "urlToImage": "https://ychef.files.bbci.co.uk/live/624x351/p0f3kkj6.jpg",
+            "publishedAt": "2023-02-16T15:37:30Z",
+            "content": "Naturally men don't face these risks if they choose to have unprotected sex, so the safety standards for any contraceptives they might take have a higher bar to get across.\r\nTake hormonal male contra… [+4221 chars]"
+        }
+    ]
+}
